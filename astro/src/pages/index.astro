@@ -1,9 +1,11 @@
 ---
-import Welcome from '../components/Welcome.astro'
-import Layout from '../layouts/Layout.astro'
+// Import the Button component from your components folder
+import { LoginForm } from '../components/login-form'
 import '../styles/globals.css'
 ---
 
-<Layout>
-  <Welcome />
-</Layout>
+<html lang="en">
+  <body class="p-10">
+    <LoginForm />
+  </body>
+</html>
