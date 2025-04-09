@@ -1,9 +1,9 @@
 ### Main Points
-- [ ] Routing
+- [x] Routing
 
 - [ ] State Management
 
-- [ ] Styling (tailwind)
+- [x] Styling (tailwind)
 
 - [ ] Server & Client API's with crud samples
 
